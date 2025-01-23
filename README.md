@@ -1,6 +1,6 @@
  Sup, I’m drumstickguy aka :face_with_raised_eyebrow:
- I’m interested in making gdi only malwares? idk
- I’m currently learning C++ And Python
+ I’m interested in making gdi only malwares? idk.
+ I’m currently learning C++ And Python.
  How to reach me? Well... you can dm me! Email is drumstickguy3@gmail.com
  He/Him
 <!---
